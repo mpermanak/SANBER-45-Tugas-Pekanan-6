@@ -9,7 +9,7 @@ https://docs.google.com/spreadsheets/d/1PFA6kuS1RbCr47Do6MlM55vc4_HF8u8h7tX6CMY4
 ```
 2. Link Code Javascript Webdriver io testing
 ```
-
+https://github.com/mpermanak/SANBER-45-Tugas-Pekanan-6.git
 ```
 3. Link Video Recording
 ```
